@@ -1,0 +1,25 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "email": "nutri@nutriviva.com",
+      "senha": "1234",
+      "nome": "Nutricionista"
+    }
+  ],
+  "pacientes": [
+    {
+      "id": 1763235777896,
+      "nome": "Crislaine Cardoso Cordeiro",
+      "cpf": "07983312160",
+      "dataNascimento": "2007-08-18",
+      "altura": 175,
+      "peso": 60,
+      "historicoAlimentar": "Bom.",
+      "dataCadastro": "2025-11-15T19:42:57.896Z",
+      "status": "Ativo"
+    }
+  ],
+  "agendamentos": [],
+  "planos": []
+}
